@@ -20,3 +20,5 @@ The files were created with `paper_dot_line.nb`. I haven't tried them all, my fa
 
 I like the idea of having both lines and dots. The lines guide your writing and the dots are
 useful when some precision is needed for drawing.
+
+Enjoy!
