@@ -4,7 +4,7 @@ A collection of printable paper. The file names inside `printable_paper` can be 
 
 - "single", "double" means a single A4 page or an A4 page divided into two A5 pages
 
-- "lines", "dots", "linesdots" means lined, dotted and line-dotted paper respectively (the lat option is inspired by some interesting, Japanese me thinks, stationary)
+- "lines", "dots", "linesdots" means lined, dotted and line-dotted paper respectively (the last option is inspired by some interesting, Japanese me thinks, stationary)
 
 - "5mm", "6mm", "college" means 5mm, 6mm or college ruled spacing
 
