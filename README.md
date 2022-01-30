@@ -2,18 +2,21 @@
 
 Dołączam moją kolekcję kropeczek i kreseczek, które można sobie dodać do ulubionego papieru na drukarce. Nazwy plików można odszyfrować korzystając z klucza:
 
-- "double", "single " oznacza odpowiednio stronę A4 w całości lub podzieloną na dwie A5
+A collection of printable paper. The file names inside `printable_paper` can be interpreted using the following key:
 
-- "lines", "dots", "linesdots" oznacza odpowiednio papier w linie, papier w kropeczki oraz papier w linie i kropeczki (widziełam kiedyś taki, chyba japoński papier, wydaje mi się, że to ciekawa opcja)
+- "single", "double" means a single A4 page or an A4 page divided into two A5 pages
 
-- "5mm", "6mm", "college" oznacza odstęp pomiędzy liniami 5mm, 6mm oraz tzw. college ruled
+- "lines", "dots", "linesdots" means lined, dotted and line-dotted paper respectively
 
-- "smallmargin", "mediummargin", "largemargin" oznacza mały, średni oraz duży margines
+- "5mm", "6mm", "college" means 5mm, 6mm or college ruled spacing
 
-- "light" oznacza jaśniejsze, mniej rzucające się w oczy kropeczki, kreseczki
+- "smallmargin", "mediummargin", "largemargin" means small, medium or large margins
 
-Oczywiście nie wszystkich próbowałem. Moją obecnie ulubioną wersją jest:
+- "light" means lighter dots and lines
+
+The files were created with `paper_dot_line.nb`. I haven't tried them all, my favorite is:
 
 "double_linesdots_6mm_smallmargin_light.pdf"
 
-Podoba mi się idea kropeczek i kresek naraz. Linie przyjemnie prowadzą pismo a kropeczki przydają się gdy czasem trzeba coś równo narysować. Nadruk jest dość jasny i nie rzuca się w oczy. 
+I like the idea of having both lines and dots. The lines guide your writing and the dots are
+useful when some precision is needed for drawing.
