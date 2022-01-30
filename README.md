@@ -1,12 +1,10 @@
 # printable_paper
 
-Dołączam moją kolekcję kropeczek i kreseczek, które można sobie dodać do ulubionego papieru na drukarce. Nazwy plików można odszyfrować korzystając z klucza:
-
 A collection of printable paper. The file names inside `printable_paper` can be interpreted using the following key:
 
 - "single", "double" means a single A4 page or an A4 page divided into two A5 pages
 
-- "lines", "dots", "linesdots" means lined, dotted and line-dotted paper respectively
+- "lines", "dots", "linesdots" means lined, dotted and line-dotted paper respectively (the lat option is inspired by some interesting, Japanese me thinks, stationary)
 
 - "5mm", "6mm", "college" means 5mm, 6mm or college ruled spacing
 
