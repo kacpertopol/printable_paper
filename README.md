@@ -12,8 +12,8 @@ The file names inside `printable_paper` can be interpreted using the following k
 
 - "single", "double" means a single A4 page or an A4 page divided into two A5 pages
 
-- "iso" means isometric lined A4 paper with vertical lines (lines of dots) along the long edge, 
-  "isohorizontal" means isometric A4 lined paper with horizontal lines (lines of dots) along the short edge
+- "isovertical" means isometric lined A4 paper with vertical lines (or lines of dots) along the long edge, 
+  "isohorizontal" means isometric A4 lined paper with horizontal lines (or lines of dots) along the short edge
 
 - "lines", "dots", "linesdots" means lined, dotted and line-dotted paper respectively (the lat option is inspired by some interesting, Japanese me thinks, stationary)
 
