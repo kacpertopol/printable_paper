@@ -5,7 +5,7 @@ A collection of printable paper. There are 216 different varieties
 
 - "double_linesdots_6mm_smallmargin_light.pdf"
 
-I like the idea of having both lines and dots. The lines guide your writing and the dots are
+I like the idea of having both lines and dots (I think I saw this on some Japanese stationary). The lines guide your writing and the dots are
 useful when some precision is needed for drawing.
 
 The file names inside `printable_paper` can be interpreted using the following key:
