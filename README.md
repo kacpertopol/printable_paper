@@ -30,6 +30,7 @@ The file names inside `printable_paper` can be interpreted using the following k
 
 A collection of printable paper. There are 216 different varieties 
 (created using `paper_dot_line_letter.nb`). The files can be interpreted
-using the same key as above but the paper size is letter.
+using the same key as above but the paper size is letter or half of letter
+for files with "double".
 
 # Enjoy!
